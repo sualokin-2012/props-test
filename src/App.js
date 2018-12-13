@@ -7,9 +7,6 @@ class App extends Component {
     val2: "두번째 값",
     val3: "세번째 값"
   }
-  
-  a = new TestComponent();
-  a.props.p1 = "다른값";
 
   render() {
     return (
